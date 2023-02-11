@@ -1,5 +1,5 @@
 # Wordle-Probability-Algorithm
-## A extension of the World-App using TDD Approach and following Clean Code Standard ##
+## A extension of the Worlde-App using TDD Approach and following Clean Code Standard ##
 
 ### Intro : 
    1)  While working on the Wordle App, It was clear to me that I had to come up with a probability factor that could pinpoint how likely the player would be able to guess the word in 'n' attempts.
