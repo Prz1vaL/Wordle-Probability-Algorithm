@@ -9,10 +9,11 @@
 #### QUESTION / PROBLEM : 
 
 $ Find the probability of guessing the right 5 letter word for the following conditions: 
-1)Total number of words is 14855
-2)Total number of attempts is 6 
-3)One word per attempt (x)
+1) Total number of words is 14855
+2) Total number of attempts is 6 
+3)  One word per attempt (x)
 >> Find p(n) for each attempt.
+
 Note : If 'x' word contains a character or more (but not all) of the right 5  letter word in any attempt what is the probability factor in the next attempt?
 
 
