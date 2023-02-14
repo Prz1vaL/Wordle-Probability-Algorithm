@@ -21,10 +21,13 @@ Note : If 'x' word contains a character or more (but not all) of the right 5  le
 
 After 3 days, of asking my friends and colleagues, With everyone giving a rough idea of how to proceed; I took it upon me to reach the hidden treasure.
 
-Stay tuned...
+
 
 ROUGH WORK OF DEDUCTING THE ALGORITHM :
 ![ORIGINAL WORK OF WORLDE ALGORITHM](https://user-images.githubusercontent.com/113372062/218266813-9ba01c15-5a69-49bc-b1dd-67cca228538a.jpeg)
+
+IMPLEMENTATION : <img width="1054" alt="Screenshot 2023-02-14 at 7 48 21 PM" src="https://user-images.githubusercontent.com/113372062/218848251-18432713-2a4e-4ede-aec2-accd8d93052d.png">
+<img width="1054" alt="Screenshot 2023-02-14 at 7 58 57 PM" src="https://user-images.githubusercontent.com/113372062/218848265-37c43394-672e-4508-92fe-93a20e475301.png">
 
 
 
