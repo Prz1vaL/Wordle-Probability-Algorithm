@@ -26,8 +26,8 @@ After 3 days, of asking my friends and colleagues, With everyone giving a rough 
 ROUGH WORK OF DEDUCTING THE ALGORITHM :
 ![ORIGINAL WORK OF WORLDE ALGORITHM](https://user-images.githubusercontent.com/113372062/218266813-9ba01c15-5a69-49bc-b1dd-67cca228538a.jpeg)
 
-IMPLEMENTATION : <img width="1054" alt="Screenshot 2023-02-14 at 7 48 21 PM" src="https://user-images.githubusercontent.com/113372062/218848251-18432713-2a4e-4ede-aec2-accd8d93052d.png">
-<img width="1054" alt="Screenshot 2023-02-14 at 7 58 57 PM" src="https://user-images.githubusercontent.com/113372062/218848265-37c43394-672e-4508-92fe-93a20e475301.png">
+IMPLEMENTATION :
 
 
+<img width="1069" alt="Screenshot 2023-02-17 at 9 28 42 AM" src="https://user-images.githubusercontent.com/113372062/219606608-0e5d5486-30c6-4e4c-9dab-aeea7ffcd51e.png">
 
